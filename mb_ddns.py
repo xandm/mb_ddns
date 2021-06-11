@@ -10,8 +10,8 @@ import sys
 import yaml
 
 URLS = {
-    "ipv4": "https://ipv4.api.mythic-beasts2.com/dns/v2/dynamic/",
-    "ipv6": "https://ipv6.api.mythic-beasts2.com/dns/v2/dynamic/"
+    "ipv4": "https://ipv4.api.mythic-beasts.com/dns/v2/dynamic/",
+    "ipv6": "https://ipv6.api.mythic-beasts.com/dns/v2/dynamic/"
 }
 
 config_file = "/etc/mb_ddns.yaml"
