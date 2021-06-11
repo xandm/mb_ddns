@@ -1,0 +1,6 @@
+---
+ipv4: true
+ipv6: true
+domain: "test.example.com"
+key_id: "id_of_my_key"
+secret: "top_secret_string"
